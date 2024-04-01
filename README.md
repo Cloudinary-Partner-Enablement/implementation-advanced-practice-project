@@ -17,8 +17,6 @@ A small project to practice using Cloudinary.
 
 ## Steps
 
----
-
 ### Upload Challenge
 
 Using the provided images in the `start.js` file, complete the following:
